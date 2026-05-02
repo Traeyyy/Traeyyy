@@ -1,4 +1,6 @@
 ## Hi there 👋
+I’m currently learning python.
+And I love hamburgers 🍔!!!
 
 <!--
 **Traeyyy/Traeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
